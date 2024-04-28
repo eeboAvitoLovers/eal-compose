@@ -1,2 +1,2 @@
-./eal-backend
-./eal-frontend
+./eal-backend/*
+./eal-frontend/*
